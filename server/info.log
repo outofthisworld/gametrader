@@ -1,0 +1,183 @@
+INFO: 2018-08-24T02:47:16.401Z  Server configuration: PORT: 3000 DB_URL: mongodb://mongoinstance:27017/gametrader DB_PORT: 27017 JWT_SECRET: ima_important_secret 
+INFO: 2018-08-24T02:47:18.105Z Server started listening on port 3000
+INFO: 2018-08-24T02:48:11.753Z  A database event (insert) has been raised on db gametrader collection users {"_id":"5b7f71dc851c42bcef28f00d","username":"booopfffpff","email":"hiiifpffff"} 
+[ [[[INFO]]] 2018-08-24T02:49:22.850Z ]  Server configuration: PORT: 3000 DB_URL: mongodb://mongoinstance:27017/gametrader DB_PORT: 27017 JWT_SECRET: ima_important_secret 
+[ [[[INFO]]] 2018-08-24T02:49:24.125Z ] Server started listening on port 3000
+[ [[[INFO]]] 2018-08-24T02:49:32.000Z ]  A database event (insert) has been raised on db gametrader collection users {"_id":"5b7f722c851c42bcef28f00e","username":"booopfffpfff","email":"hiiifpfffff"} 
+[ [[[ INFO ]]] 2018-08-24T02:50:04.736Z ]  Server configuration: PORT: 3000 DB_URL: mongodb://mongoinstance:27017/gametrader DB_PORT: 27017 JWT_SECRET: ima_important_secret 
+[ [[[ INFO ]]] 2018-08-24T02:50:06.087Z ] Server started listening on port 3000
+[ [[[ INFO ]]] 2018-08-24T02:50:08.528Z ]  A database event (insert) has been raised on db gametrader collection users {"_id":"5b7f7251851c42bcef28f010","username":"booopfffpffff","email":"fhiiifpfffff"} 
+[ [[[ INFO ]]] 2018-08-24T03:01:54.444Z ]  Server configuration: PORT: 3000 DB_URL: mongodb://mongoinstance:27017/gametrader DB_PORT: 27017 JWT_SECRET: ima_important_secret 
+[ [[[ INFO ]]] 2018-08-24T03:01:56.104Z ] Server started listening on port 3000
+[ [[[ INFO ]]] 2018-08-24T03:03:32.014Z ]  Server configuration: PORT: 3000 DB_URL: mongodb://mongoinstance:27017/gametrader DB_PORT: 27017 JWT_SECRET: ima_important_secret 
+[ [[[ INFO ]]] 2018-08-24T03:03:33.297Z ] Server started listening on port 3000
+[ [[[ INFO ]]] 2018-08-24T03:03:53.224Z ]  Server configuration: PORT: 3000 DB_URL: mongodb://mongoinstance:27017/gametrader DB_PORT: 27017 JWT_SECRET: ima_important_secret 
+[ [[[ INFO ]]] 2018-08-24T03:03:54.608Z ] Server started listening on port 3000
+[ [[[ INFO ]]] 2018-08-24T03:06:02.667Z ]  Server configuration: PORT: 3000 DB_URL: mongodb://mongoinstance:27017/gametrader DB_PORT: 27017 JWT_SECRET: ima_important_secret 
+[ [[[ INFO ]]] 2018-08-24T03:07:39.355Z ]  Server configuration: PORT: 3000 DB_URL: mongodb://mongoinstance:27017/gametrader DB_PORT: 27017 JWT_SECRET: ima_important_secret 
+[ [[[ INFO ]]] 2018-08-24T03:08:30.877Z ]  Server configuration: PORT: 3000 DB_URL: mongodb://mongoinstance:27017/gametrader DB_PORT: 27017 JWT_SECRET: ima_important_secret 
+[ [[[ INFO ]]] 2018-08-24T03:09:42.824Z ]  Server configuration: PORT: 3000 DB_URL: mongodb://mongoinstance:27017/gametrader DB_PORT: 27017 JWT_SECRET: ima_important_secret 
+[ [[[ INFO ]]] 2018-08-24T03:10:01.130Z ]  Server configuration: PORT: 3000 DB_URL: mongodb://mongoinstance:27017/gametrader DB_PORT: 27017 JWT_SECRET: ima_important_secret 
+[ [[[ INFO ]]] 2018-08-24T03:10:38.864Z ]  Server configuration: PORT: 3000 DB_URL: mongodb://mongoinstance:27017/gametrader DB_PORT: 27017 JWT_SECRET: ima_important_secret 
+[ [[[ INFO ]]] 2018-08-24T03:11:08.130Z ]  Server configuration: PORT: 3000 DB_URL: mongodb://mongoinstance:27017/gametrader DB_PORT: 27017 JWT_SECRET: ima_important_secret 
+[ [[[ INFO ]]] 2018-08-24T03:11:30.167Z ]  Server configuration: PORT: 3000 DB_URL: mongodb://mongoinstance:27017/gametrader DB_PORT: 27017 JWT_SECRET: ima_important_secret 
+[ [[[ INFO ]]] 2018-08-24T03:12:49.308Z ]  Server configuration: PORT: 3000 DB_URL: mongodb://mongoinstance:27017/gametrader DB_PORT: 27017 JWT_SECRET: ima_important_secret 
+[ [[[ INFO ]]] 2018-08-24T03:13:13.992Z ]  Server configuration: PORT: 3000 DB_URL: mongodb://mongoinstance:27017/gametrader DB_PORT: 27017 JWT_SECRET: ima_important_secret 
+[ [[[ INFO ]]] 2018-08-24T03:13:15.252Z ] Server started listening on port 3000
+[ [[[ INFO ]]] 2018-08-24T03:14:26.769Z ]  Server configuration: PORT: 3000 DB_URL: mongodb://mongoinstance:27017/gametrader DB_PORT: 27017 JWT_SECRET: ima_important_secret 
+[ [[[ INFO ]]] 2018-08-24T03:14:28.048Z ] Server started listening on port 3000
+[ [[[ INFO ]]] 2018-08-24T03:15:08.825Z ]  Server configuration: PORT: 3000 DB_URL: mongodb://mongoinstance:27017/gametrader DB_PORT: 27017 JWT_SECRET: ima_important_secret 
+[ [[[ INFO ]]] 2018-08-24T03:15:42.147Z ]  Server configuration: PORT: 3000 DB_URL: mongodb://mongoinstance:27017/gametrader DB_PORT: 27017 JWT_SECRET: ima_important_secret 
+[ [[[ INFO ]]] 2018-08-24T03:15:43.695Z ] Server started listening on port 3000
+[ [[[ INFO ]]] 2018-08-24T03:17:10.455Z ]  Server configuration: PORT: 3000 DB_URL: mongodb://mongoinstance:27017/gametrader DB_PORT: 27017 JWT_SECRET: ima_important_secret 
+[ [[[ INFO ]]] 2018-08-24T03:17:11.755Z ] Server started listening on port 3000
+[ [[[ INFO ]]] 2018-08-24T03:22:00.101Z ]  Server configuration: PORT: 3000 DB_URL: mongodb://mongoinstance:27017/gametrader DB_PORT: 27017 JWT_SECRET: ima_important_secret 
+[ [[[ INFO ]]] 2018-08-24T03:22:01.525Z ] Server started listening on port 3000
+[ [[[ INFO ]]] 2018-08-24T03:23:11.570Z ]  Server configuration: PORT: 3000 DB_URL: mongodb://mongoinstance:27017/gametrader DB_PORT: 27017 JWT_SECRET: ima_important_secret 
+[ [[[ INFO ]]] 2018-08-24T03:23:12.839Z ] Server started listening on port 3000
+[ [[[ INFO ]]] 2018-08-24T03:23:52.189Z ]  Server configuration: PORT: 3000 DB_URL: mongodb://mongoinstance:27017/gametrader DB_PORT: 27017 JWT_SECRET: ima_important_secret 
+[ [[[ INFO ]]] 2018-08-24T03:23:53.608Z ] Server started listening on port 3000
+[ [[[ INFO ]]] 2018-08-24T03:24:47.615Z ]  Server configuration: PORT: 3000 DB_URL: mongodb://mongoinstance:27017/gametrader DB_PORT: 27017 JWT_SECRET: ima_important_secret 
+[ [[[ INFO ]]] 2018-08-24T03:24:48.791Z ] Server started listening on port 3000
+[ [[[ INFO ]]] 2018-08-24T03:25:12.496Z ]  Server configuration: PORT: 3000 DB_URL: mongodb://mongoinstance:27017/gametrader DB_PORT: 27017 JWT_SECRET: ima_important_secret 
+[ [[[ INFO ]]] 2018-08-24T03:25:14.098Z ] Server started listening on port 3000
+[ [[[ INFO ]]] 2018-08-24T03:25:34.879Z ]  Server configuration: PORT: 3000 DB_URL: mongodb://mongoinstance:27017/gametrader DB_PORT: 27017 JWT_SECRET: ima_important_secret 
+[ [[[ INFO ]]] 2018-08-24T03:25:36.353Z ] Server started listening on port 3000
+[ [[[ INFO ]]] 2018-08-24T03:29:56.015Z ]  Server configuration: PORT: 3000 DB_URL: mongodb://mongoinstance:27017/gametrader DB_PORT: 27017 JWT_SECRET: ima_important_secret 
+[ [[[ INFO ]]] 2018-08-24T03:29:57.646Z ] Server started listening on port 3000
+[ [[[ INFO ]]] 2018-08-24T03:30:23.340Z ]  Server configuration: PORT: 3000 DB_URL: mongodb://mongoinstance:27017/gametrader DB_PORT: 27017 JWT_SECRET: ima_important_secret 
+[ [[[ INFO ]]] 2018-08-24T03:30:24.786Z ] Server started listening on port 3000
+[ [[[ INFO ]]] 2018-08-24T03:31:36.670Z ]  Server configuration: PORT: 3000 DB_URL: mongodb://mongoinstance:27017/gametrader DB_PORT: 27017 JWT_SECRET: ima_important_secret 
+[ [[[ INFO ]]] 2018-08-24T03:31:57.838Z ]  Server configuration: PORT: 3000 DB_URL: mongodb://mongoinstance:27017/gametrader DB_PORT: 27017 JWT_SECRET: ima_important_secret 
+[ [[[ INFO ]]] 2018-08-24T03:31:59.427Z ] Server started listening on port 3000
+[ [[[ INFO ]]] 2018-08-24T03:32:40.180Z ]  Server configuration: PORT: 3000 DB_URL: mongodb://mongoinstance:27017/gametrader DB_PORT: 27017 JWT_SECRET: ima_important_secret 
+[ [[[ INFO ]]] 2018-08-24T03:32:41.579Z ] Server started listening on port 3000
+[ [[[ INFO ]]] 2018-08-24T03:32:50.704Z ] The user for the current request is not logged in
+[ [[[ INFO ]]] 2018-08-24T03:32:52.069Z ] The user for the current request is not logged in
+[ [[[ INFO ]]] 2018-08-24T03:33:51.749Z ] The user for the current request is not logged in
+[ [[[ INFO ]]] 2018-08-24T03:33:52.293Z ] The user for the current request is not logged in
+[ [[[ INFO ]]] 2018-08-24T03:33:53.402Z ] The user for the current request is not logged in
+[ [[[ INFO ]]] 2018-08-24T03:33:54.568Z ] The user for the current request is not logged in
+[ [[[ INFO ]]] 2018-08-24T03:34:02.171Z ] The user for the current request is not logged in
+[ [[[ INFO ]]] 2018-08-24T03:34:03.350Z ] The user for the current request is not logged in
+[ [[[ INFO ]]] 2018-08-24T03:34:36.783Z ] The user for the current request is not logged in
+[ [[[ INFO ]]] 2018-08-24T03:34:37.988Z ] The user for the current request is not logged in
+[ [[[ INFO ]]] 2018-08-24T03:35:23.399Z ] The user for the current request is not logged in
+[ [[[ INFO ]]] 2018-08-24T03:37:19.094Z ] The user for the current request is not logged in
+[ [[[ INFO ]]] 2018-08-24T03:38:20.359Z ] The user for the current request is not logged in
+[ [[[ INFO ]]] 2018-08-24T03:39:17.280Z ] The user for the current request is not logged in
+[ [[[ INFO ]]] 2018-08-24T03:55:19.481Z ]  Server configuration: PORT: 3000 DB_URL: mongodb://mongoinstance:27017/gametrader DB_PORT: 27017 JWT_SECRET: ima_important_secret 
+[ [[[ INFO ]]] 2018-08-24T03:55:20.990Z ] Server started listening on port 3000
+[ [[[ INFO ]]] 2018-08-24T03:55:46.431Z ] The user for the current request is not logged in
+[ [[[ INFO ]]] 2018-08-24T03:56:16.392Z ]  Server configuration: PORT: 3000 DB_URL: mongodb://mongoinstance:27017/gametrader DB_PORT: 27017 JWT_SECRET: ima_important_secret 
+[ [[[ INFO ]]] 2018-08-24T03:56:18.599Z ] Server started listening on port 3000
+[ [[[ INFO ]]] 2018-08-24T03:57:47.800Z ] The user for the current request is not logged in
+[ [[[ INFO ]]] 2018-08-24T04:00:45.734Z ] The user for the current request is not logged in
+[ [[[ INFO ]]] 2018-08-24T04:01:08.364Z ]  Server configuration: PORT: 3000 DB_URL: mongodb://mongoinstance:27017/gametrader DB_PORT: 27017 JWT_SECRET: ima_important_secret 
+[ [[[ INFO ]]] 2018-08-24T04:01:09.787Z ] Server started listening on port 3000
+[ [[[ INFO ]]] 2018-08-24T04:01:52.328Z ]  Server configuration: PORT: 3000 DB_URL: mongodb://mongoinstance:27017/gametrader DB_PORT: 27017 JWT_SECRET: ima_important_secret 
+[ [[[ INFO ]]] 2018-08-24T04:01:54.242Z ] Server started listening on port 3000
+[ [[[ INFO ]]] 2018-08-24T04:02:33.071Z ] The user for the current request is not logged in
+[ [[[ INFO ]]] 2018-08-24T04:03:22.346Z ]  Server configuration: PORT: 3000 DB_URL: mongodb://mongoinstance:27017/gametrader DB_PORT: 27017 JWT_SECRET: ima_important_secret 
+[ [[[ INFO ]]] 2018-08-24T04:03:23.707Z ] Server started listening on port 3000
+[ [[[ INFO ]]] 2018-08-24T04:03:36.203Z ] The user for the current request is not logged in
+[ [[[ INFO ]]] 2018-08-24T04:03:37.437Z ] The user for the current request is not logged in
+[ [[[ INFO ]]] 2018-08-24T04:04:15.249Z ] The user for the current request is not logged in
+[ [[[ INFO ]]] 2018-08-24T04:04:29.780Z ]  Server configuration: PORT: 3000 DB_URL: mongodb://mongoinstance:27017/gametrader DB_PORT: 27017 JWT_SECRET: ima_important_secret 
+[ [[[ INFO ]]] 2018-08-24T04:04:31.844Z ] Server started listening on port 3000
+[ [[[ INFO ]]] 2018-08-24T04:05:04.008Z ]  Server configuration: PORT: 3000 DB_URL: mongodb://mongoinstance:27017/gametrader DB_PORT: 27017 JWT_SECRET: ima_important_secret 
+[ [[[ INFO ]]] 2018-08-24T04:05:05.647Z ] Server started listening on port 3000
+[ [[[ INFO ]]] 2018-08-24T04:05:07.717Z ] The user for the current request is not logged in
+[ [[[ INFO ]]] 2018-08-24T04:05:08.917Z ] The user for the current request is not logged in
+[ [[[ INFO ]]] 2018-08-24T04:05:21.301Z ]  Server configuration: PORT: 3000 DB_URL: mongodb://mongoinstance:27017/gametrader DB_PORT: 27017 JWT_SECRET: ima_important_secret 
+[ [[[ INFO ]]] 2018-08-24T04:05:22.645Z ] Server started listening on port 3000
+[ [[[ INFO ]]] 2018-08-24T04:05:27.211Z ] The user for the current request is not logged in
+[ [[[ INFO ]]] 2018-08-24T04:05:28.383Z ] The user for the current request is not logged in
+[ [[[ INFO ]]] 2018-08-24T04:06:25.595Z ] The user for the current request is not logged in
+[ [[[ INFO ]]] 2018-08-24T04:07:23.209Z ] The user for the current request is not logged in
+[ [[[ INFO ]]] 2018-08-24T04:08:45.968Z ]  Server configuration: PORT: 3000 DB_URL: mongodb://mongoinstance:27017/gametrader DB_PORT: 27017 JWT_SECRET: ima_important_secret 
+[ [[[ INFO ]]] 2018-08-24T04:08:47.530Z ] Server started listening on port 3000
+[ [[[ INFO ]]] 2018-08-24T04:09:11.073Z ]  Server configuration: PORT: 3000 DB_URL: mongodb://mongoinstance:27017/gametrader DB_PORT: 27017 JWT_SECRET: ima_important_secret 
+[ [[[ INFO ]]] 2018-08-24T04:09:12.577Z ] Server started listening on port 3000
+[ [[[ INFO ]]] 2018-08-24T04:09:20.559Z ] The user for the current request is not logged in
+[ [[[ INFO ]]] 2018-08-24T04:09:21.732Z ] The user for the current request is not logged in
+[ [[[ INFO ]]] 2018-08-24T04:09:58.825Z ]  Server configuration: PORT: 3000 DB_URL: mongodb://mongoinstance:27017/gametrader DB_PORT: 27017 JWT_SECRET: ima_important_secret 
+[ [[[ INFO ]]] 2018-08-24T04:10:00.310Z ] Server started listening on port 3000
+[ [[[ INFO ]]] 2018-08-24T04:10:05.747Z ] The user for the current request is not logged in
+[ [[[ INFO ]]] 2018-08-24T04:10:06.921Z ] The user for the current request is not logged in
+[ [[[ INFO ]]] 2018-08-24T04:10:12.181Z ] The user for the current request is not logged in
+[ [[[ INFO ]]] 2018-08-24T04:10:13.352Z ] The user for the current request is not logged in
+[ [[[ INFO ]]] 2018-08-24T04:11:07.745Z ] The user for the current request is not logged in
+[ [[[ INFO ]]] 2018-08-24T04:11:50.088Z ]  Server configuration: PORT: 3000 DB_URL: mongodb://mongoinstance:27017/gametrader DB_PORT: 27017 JWT_SECRET: ima_important_secret 
+[ [[[ INFO ]]] 2018-08-24T04:11:51.456Z ] Server started listening on port 3000
+[ [[[ INFO ]]] 2018-08-24T04:12:00.030Z ] The user for the current request is not logged in
+[ [[[ INFO ]]] 2018-08-24T04:12:01.209Z ] The user for the current request is not logged in
+[ [[[ INFO ]]] 2018-08-24T04:12:44.699Z ] The user for the current request is not logged in
+[ [[[ INFO ]]] 2018-08-24T04:13:27.305Z ]  Server configuration: PORT: 3000 DB_URL: mongodb://mongoinstance:27017/gametrader DB_PORT: 27017 JWT_SECRET: ima_important_secret 
+[ [[[ INFO ]]] 2018-08-24T04:13:28.735Z ] Server started listening on port 3000
+[ [[[ INFO ]]] 2018-08-24T04:13:31.287Z ] The user for the current request is not logged in
+[ [[[ INFO ]]] 2018-08-24T04:13:32.463Z ] The user for the current request is not logged in
+[ [[[ INFO ]]] 2018-08-24T04:13:38.049Z ] The user for the current request is not logged in
+[ [[[ INFO ]]] 2018-08-24T04:13:39.214Z ] The user for the current request is not logged in
+[ [[[ INFO ]]] 2018-08-24T04:13:50.451Z ]  Server configuration: PORT: 3000 DB_URL: mongodb://mongoinstance:27017/gametrader DB_PORT: 27017 JWT_SECRET: ima_important_secret 
+[ [[[ INFO ]]] 2018-08-24T04:13:52.177Z ] Server started listening on port 3000
+[ [[[ INFO ]]] 2018-08-24T04:13:53.370Z ] The user for the current request is not logged in
+[ [[[ INFO ]]] 2018-08-24T04:13:54.568Z ] The user for the current request is not logged in
+[ [[[ INFO ]]] 2018-08-24T04:14:06.604Z ]  Server configuration: PORT: 3000 DB_URL: mongodb://mongoinstance:27017/gametrader DB_PORT: 27017 JWT_SECRET: ima_important_secret 
+[ [[[ INFO ]]] 2018-08-24T04:14:08.477Z ] Server started listening on port 3000
+[ [[[ INFO ]]] 2018-08-24T04:14:08.680Z ] The user for the current request is not logged in
+[ [[[ INFO ]]] 2018-08-24T04:14:09.895Z ] The user for the current request is not logged in
+[ [[[ INFO ]]] 2018-08-24T04:14:33.213Z ]  Server configuration: PORT: 3000 DB_URL: mongodb://mongoinstance:27017/gametrader DB_PORT: 27017 JWT_SECRET: ima_important_secret 
+[ [[[ INFO ]]] 2018-08-24T04:14:34.584Z ] Server started listening on port 3000
+[ [[[ INFO ]]] 2018-08-24T04:14:37.020Z ] The user for the current request is not logged in
+[ [[[ INFO ]]] 2018-08-24T04:14:38.193Z ] The user for the current request is not logged in
+[ [[[ INFO ]]] 2018-08-24T04:15:18.036Z ] The user for the current request is not logged in
+[ [[[ INFO ]]] 2018-08-24T04:17:36.218Z ] The user for the current request is not logged in
+[ [[[ INFO ]]] 2018-08-24T04:18:06.224Z ] The user for the current request is not logged in
+[ [[[ INFO ]]] 2018-08-24T04:18:37.963Z ] The user for the current request is not logged in
+[ [[[ INFO ]]] 2018-08-24T04:19:09.326Z ] The user for the current request is not logged in
+[ [[[ INFO ]]] 2018-08-24T04:21:34.601Z ] The user for the current request is not logged in
+[ [[[ INFO ]]] 2018-08-24T04:23:01.649Z ] The user for the current request is not logged in
+[ [[[ INFO ]]] 2018-08-24T04:24:24.687Z ] The user for the current request is not logged in
+[ [[[ INFO ]]] 2018-08-24T04:25:08.172Z ]  Server configuration: PORT: 3000 DB_URL: mongodb://mongoinstance:27017/gametrader DB_PORT: 27017 JWT_SECRET: ima_important_secret 
+[ [[[ INFO ]]] 2018-08-24T04:25:09.415Z ] Server started listening on port 3000
+[ [[[ INFO ]]] 2018-08-24T04:26:03.523Z ] The user for the current request is not logged in
+[ [[[ INFO ]]] 2018-08-24T04:28:30.925Z ] The user for the current request is not logged in
+[ [[[ INFO ]]] 2018-08-24T04:31:43.751Z ]  Server configuration: PORT: 3000 DB_URL: mongodb://mongoinstance:27017/gametrader DB_PORT: 27017 JWT_SECRET: ima_important_secret 
+[ [[[ INFO ]]] 2018-08-24T04:31:45.455Z ] Server started listening on port 3000
+[ [[[ INFO ]]] 2018-08-24T04:32:55.416Z ] The user for the current request is not logged in
+[ [[[ INFO ]]] 2018-08-24T04:33:32.837Z ]  Server configuration: PORT: 3000 DB_URL: mongodb://mongoinstance:27017/gametrader DB_PORT: 27017 JWT_SECRET: ima_important_secret 
+[ [[[ INFO ]]] 2018-08-24T04:33:37.041Z ] Server started listening on port 3000
+[ [[[ INFO ]]] 2018-08-24T04:34:13.401Z ]  Server configuration: PORT: 3000 DB_URL: mongodb://mongoinstance:27017/gametrader DB_PORT: 27017 JWT_SECRET: ima_important_secret 
+[ [[[ INFO ]]] 2018-08-24T04:34:17.665Z ] Server started listening on port 3000
+[ [[[ INFO ]]] 2018-08-24T04:35:19.176Z ] The user for the current request is not logged in
+[ [[[ INFO ]]] 2018-08-24T04:36:19.557Z ] The user for the current request is not logged in
+[ [[[ INFO ]]] 2018-08-24T04:36:53.289Z ] The user for the current request is not logged in
+[ [[[ INFO ]]] 2018-08-24T04:40:49.538Z ]  Server configuration: PORT: 3000 DB_URL: mongodb://mongoinstance:27017/gametrader DB_PORT: 27017 JWT_SECRET: ima_important_secret 
+[ [[[ INFO ]]] 2018-08-24T04:40:51.379Z ] Server started listening on port 3000
+[ [[[ INFO ]]] 2018-08-24T04:41:13.868Z ]  Server configuration: PORT: 3000 DB_URL: mongodb://mongoinstance:27017/gametrader DB_PORT: 27017 JWT_SECRET: ima_important_secret 
+[ [[[ INFO ]]] 2018-08-24T04:41:16.617Z ] Server started listening on port 3000
+[ [[[ INFO ]]] 2018-08-24T04:41:28.222Z ]  Server configuration: PORT: 3000 DB_URL: mongodb://mongoinstance:27017/gametrader DB_PORT: 27017 JWT_SECRET: ima_important_secret 
+[ [[[ INFO ]]] 2018-08-24T04:41:30.231Z ] Server started listening on port 3000
+[ [[[ INFO ]]] 2018-08-24T04:42:25.371Z ]  Server configuration: PORT: 3000 DB_URL: mongodb://mongoinstance:27017/gametrader DB_PORT: 27017 JWT_SECRET: ima_important_secret 
+[ [[[ INFO ]]] 2018-08-24T04:42:27.478Z ] Server started listening on port 3000
+[ [[[ INFO ]]] 2018-08-24T04:42:37.795Z ]  Server configuration: PORT: 3000 DB_URL: mongodb://mongoinstance:27017/gametrader DB_PORT: 27017 JWT_SECRET: ima_important_secret 
+[ [[[ INFO ]]] 2018-08-24T04:42:40.164Z ] Server started listening on port 3000
+[ [[[ INFO ]]] 2018-08-24T04:42:53.092Z ]  Server configuration: PORT: 3000 DB_URL: mongodb://mongoinstance:27017/gametrader DB_PORT: 27017 JWT_SECRET: ima_important_secret 
+[ [[[ INFO ]]] 2018-08-24T04:42:55.641Z ] Server started listening on port 3000
+[ [[[ INFO ]]] 2018-08-24T04:43:35.371Z ]  Server configuration: PORT: 3000 DB_URL: mongodb://mongoinstance:27017/gametrader DB_PORT: 27017 JWT_SECRET: ima_important_secret 
+[ [[[ INFO ]]] 2018-08-24T04:43:37.086Z ] Server started listening on port 3000
+[ [[[ INFO ]]] 2018-08-24T04:44:39.770Z ]  Server configuration: PORT: 3000 DB_URL: mongodb://mongoinstance:27017/gametrader DB_PORT: 27017 JWT_SECRET: ima_important_secret 
+[ [[[ INFO ]]] 2018-08-24T04:44:41.478Z ] Server started listening on port 3000
+[ [[[ INFO ]]] 2018-08-24T04:46:03.879Z ] The user for the current request is not logged in
+[ [[[ INFO ]]] 2018-08-24T04:48:35.083Z ] The user for the current request is not logged in
+[ [[[ INFO ]]] 2018-08-24T04:49:06.376Z ] The user for the current request is not logged in
+[ [[[ INFO ]]] 2018-08-24T04:49:39.316Z ] The user for the current request is not logged in
+[ [[[ INFO ]]] 2018-08-24T04:50:11.151Z ] The user for the current request is not logged in
+[ [[[ INFO ]]] 2018-08-24T04:50:42.611Z ] The user for the current request is not logged in
+[ [[[ INFO ]]] 2018-08-24T04:51:14.529Z ] The user for the current request is not logged in
+[ [[[ INFO ]]] 2018-08-24T04:51:47.323Z ] The user for the current request is not logged in
+[ [[[ INFO ]]] 2018-08-24T04:54:10.571Z ] The user for the current request is not logged in
+[ [[[ INFO ]]] 2018-08-24T04:57:40.359Z ]  Server configuration: PORT: 3000 DB_URL: mongodb://mongoinstance:27017/gametrader DB_PORT: 27017 JWT_SECRET: ima_important_secret 
+[ [[[ INFO ]]] 2018-08-24T04:57:42.814Z ] Server started listening on port 3000
+[ [[[ INFO ]]] 2018-08-24T04:58:21.854Z ] The user for the current request is not logged in

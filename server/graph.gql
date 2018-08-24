@@ -1,0 +1,91 @@
+	type Game {
+	    name:String!
+	    description:String!
+	    imageURI:String
+	    services:[Service]
+	    _id:ID!
+	}
+	type Review {
+	    user:User!
+	    rating:Integer!
+	    description:String
+	    _id:ID!
+	}
+	type Service {
+	    name:String!
+	    imagePath:String!
+	    description:String!
+	    user:User!
+	    game:Game!
+	    serviceType:String
+	    reviews:[Review]
+	    _id:ID!
+	}
+	type KnownLocation {
+	    lng:String
+	    lat:String
+	    date:String
+	    _id:ID!
+	}
+	type KnownIp {
+	    ipv4:String!
+	    ipv6:String!
+	    date:String!
+	    _id:ID!
+	}
+	type User {
+	    username:String!
+	    password:String!
+	    email:String!
+	    lastLogin:String
+	    signUpDate:String
+	    emailVerifiedDate:String
+	    voiceVerifiedDate:String
+	    smsVerifiedDate:String
+	    addressVerifiedDate:String
+	    driversLicenceVerifiedDate:String
+	    passwordLastModifiedDate:String
+	    locationShared:Boolean
+	    knownLocations:[KnownLocation]
+	    lastLoginIP4:String
+	    lastLoginIP6:String
+	    knownIps:[KnownIp]
+	    addressLineOne:String!
+	    addressLineTwo:String!
+	    postalCode:Integer!
+	    city:String!
+	    state:String
+	    agreeToTOS:Boolean
+	    credits:Integer
+	    voiceVerified:Boolean
+	    smsVerified:Boolean
+	    emailVerified:Boolean
+	    driversLicenseVerified:Boolean
+	    addressVerified:Boolean
+	    twitterId:Integer
+	    facebookId:Integer
+	    googleId:Integer
+	    services:[Service]
+	    messages:[Message]
+	    _id:ID!
+	}
+	type Offer {
+	    description:String
+	    user:User
+	    _id:ID!
+	}
+	type Bid {
+	    amount:Integer!
+	    bidder:User
+	    bidDate:String
+	    _id:ID!
+	}
+	type GameItem {
+	    game:Game!
+	    saleType:String
+	    startDate:String!
+	    endDate:String!
+	    offers:[Offer]
+	    bids:[Bid]
+	    _id:ID!
+	}

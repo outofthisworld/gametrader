@@ -1,0 +1,12 @@
+
+<script src="/socket.io/socket.io.js"></script>
+
+
+<h1>Hello world1</h1>
+
+<script>
+  var socket = io();
+  socket.emit('amessage',{
+      hi:"hello"
+  })
+</script>

@@ -1,0 +1,6 @@
+server/node_modules
+server/combined.log
+server/error.log
+server/trade.log
+server/purchase.log
+client/node_modules

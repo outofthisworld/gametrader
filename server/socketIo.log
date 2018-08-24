@@ -1,0 +1,8 @@
+[ [[[ SOCKETIO ]]] 2018-08-24T04:10:05.803Z ] Incoming socket IO message : amessage [object Object]
+[ [[[ SOCKETIO ]]] 2018-08-24T04:10:12.235Z ] Incoming socket IO message : amessage [object Object]
+[ [[[ SOCKETIO ]]] 2018-08-24T04:12:00.085Z ] Incoming socket IO message : amessage [object Object]
+[ [[[ SOCKETIO ]]] 2018-08-24T04:13:31.342Z ] Incoming socket IO message : amessage [object Object]
+[ [[[ SOCKETIO ]]] 2018-08-24T04:13:38.096Z ] Incoming socket IO message : amessage [object Object]
+[ [[[ SOCKETIO ]]] 2018-08-24T04:13:53.439Z ] Incoming socket IO message : amessage [object Object]
+[ [[[ SOCKETIO ]]] 2018-08-24T04:14:08.772Z ] Incoming socket IO message : amessage [object Object]
+[ [[[ SOCKETIO ]]] 2018-08-24T04:14:37.075Z ] Incoming socket IO message : amessage {"hi":"hello"}
